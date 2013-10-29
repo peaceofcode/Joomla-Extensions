@@ -5,7 +5,7 @@
 
 #Example usage
 EXAMPLE_USAGE="./joomla-deploy.sh <deployment version> <old version> <environment>"
-EXAMPLE_VALUES="./joomla-deploy.sh 0.8.3 0.8.2 alpha"
+EXAMPLE_VALUES="./joomla-deploy.sh 0.8.3 0.8.2 alpha=awesome"
 
 # CHeck if we have all info
 # if no arg passed $# will be 0
